@@ -1,5 +1,6 @@
 html, body, header, #intro {
     height: 100%;
+    color:blue;
 }
 
 #intro {
