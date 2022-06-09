@@ -1,7 +1,7 @@
 body{
     background-color: rgb(174, 232, 153);
 }
-h1{
+body.h1{
     
 position: absolute;
 width: 304px;
