@@ -1,8 +1,21 @@
 body{
-    background-image: url("https://assets.website-files.com/6023c1ab453b66ef8af02699/6023fd2958d3fa6960f5e9c1_hero-bg.svg");
+    background-color: rgb(174, 232, 153);
 }
 h1{
-    color: red;
+    
+position: absolute;
+width: 304px;
+height: 104px;
+left: 103px;
+top: 82px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+
+color: #FFFFFF;
 }
 footer{
     background-color: black;
