@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+.container{
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 100;
+font-size: 20px;
+line-height: 53px;
+color: white;
+text-align: center;
+}
+.header{
+    background-color: rgb(142, 197, 47);
+}
+.content1{
+    position: absolute;
+width: 367px;
+height: 279px;
+left: 117px;
+top: 262px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+
+color:black;
+}
